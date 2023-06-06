@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_6.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/pages/widgets/adaptive_widgets/web_text.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/seo_renderer-0.6.0/lib/renderers/text_renderer/text_renderer_web.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/seo_renderer-0.6.0/lib/renderers/text_renderer/text_renderer_style.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/framework.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/seo_renderer-0.6.0/lib/helpers/robot_detector_web.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/ui/initialization.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/seo_renderer-0.6.0/lib/helpers/size_widget.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/platform_view.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/ui/geometry.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/seo_renderer-0.6.0/lib/helpers/renderer_state.dart"],
+  "names": ["WebText","WebText.build","TextRendererStyle._enumToString","TextRenderer.createState","State","_TextRendererState._htmlElement","_TextRendererState._text","_TextRendererState.build","RobotDetector.detected","WebText.build.<anonymous function>","_TextRendererState.build.<anonymous function>","","_TextRendererState","RendererState","_debugLifecycleState","widget","detected","_detected","registerViewFactory","width","height"],
+  "mappings": "A;0DA+BQA;6DAaeA,C;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CAGdC,IAYaA,0BAAYA,MAA2BA,KACvCA,MAAYA,MAA2BA,OAE7CA,MAEOA,MAEGA,MACCA;AANbA,YAEqBA,MAAYA,KAKXA,YAGAA,mBAEtBA;AAzBVA,OCnCIA,SDsCKA,4BAOCA,MADCA,iBALAA,6BAIAA,KANHA,IADCA,KAiCXA,C;;CElFGC,oCAQLA,C;ADwBMC;EAHeA,GAAiBA,iBEk4BmBC,GFl4BCD,C;;IAIxCE,cEu3BAA,EAAOA,aFp3BjBA,mCAeNA;OAbMA,mCAaNA;OAXMA,mCAWNA;OATMA,mCASNA;OAPMA,mCAONA;OALMA,mCAKNA;eAFMA,kCAENA,E;GAEWC,aEm2BKA,EAAOA;AFh2BnBA,QAuBJA,C;CAGOC,IG/DEA,iCAAsDA;AAOrDC;AHyDRD,MACEA,QEo0BYA,EAAOA,EFpyBvBA;AA7B+BA;AAE1BA;AImDWA,OACTA,KJlDHA;GAWMA;AAEMA,OKjGVA,SLmGYA,SE8yBFA,EAAOA;IF3yBXA,WAAgBA,GALZA,OMo7MVA,cC/rMAA;APxPJA,OAAgBA,KAEPA,wBAaXA,C;;;EDhEaE,GAAKA,C;;;EAmBgBA,MAAqBA,C;;;ECoBnDC,IAAOA;AACIA;GACPA;;GACAA;;GACAA;;GACAA;;GACAA;GAAiBA;gBQALA;WRAiBA;;GAC7BA;GAAkBA;gBQALA;WRDgBA;;AAN1BA,QAOoCA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "izBAgDWWS;0JCnB2BAmB;oBAAAAAAGhCAAS5BSAAP25B0CGG,A,A,A;sCF73B7CCe;gUAoBKAK;gBA6BMCoCGhE4CCa,A;cHiEtDFI;+BAKNGY;8BAgBGPS;SAESIkB;qBAGPJc;AACSAkB;yVAdYQc;wDACCCc;"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_32.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/slotted_render_object_widget.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/framework.dart"],
+  "names": ["SlottedMultiChildRenderObjectWidgetMixin.createElement","SlottedRenderObjectElement","Element","SlottedContainerRenderObjectMixin.children","SlottedContainerRenderObjectMixin.redepthChildren","SlottedContainerRenderObjectMixin.visitChildren","SlottedContainerRenderObjectMixin._setChild","SlottedRenderObjectElement.renderObject","SlottedRenderObjectElement.visitChildren","SlottedRenderObjectElement.forgetChild","SlottedRenderObjectElement.mount","SlottedRenderObjectElement.update","SlottedRenderObjectElement._updateChildren","SlottedRenderObjectElement.insertRenderObjectChild","SlottedRenderObjectElement.removeRenderObjectChild","SlottedRenderObjectElement.moveRenderObjectChild","","_slotToChild","_keyedChildren","RenderObjectElement","_lifecycleState","slot","widget","renderObject","_moveChild"],
+  "mappings": "A;;;;;;;;;;;;;;;;;;;EAsEgCA,IAAmBA;OAgIjDA,SAE2CC,IAlIMD,eAmIAC,iBCquGKC,IDxuGtDF,gBAhIoFA,C;;GAwC5DG,IAAyBA,UAAbA;eAAmBA,C;EAmClDC,GACHA,oBAAiBA,WACnBA,C;EAGKC,IACHA,sBACFA,C;EAqBKC,MACyBA;AAC5BA,YACEA;AACAA,SAEFA,YACEA;AACAA,WAEJA,C;AAqB4EC;EAAnCA,GAAgBA,2BAAmBA,EAAbA,6BAAoDA,C;EAG9GC,cACHA;AAAaA,SAAOA,OACtBA,C;EAGKC,IAIHA,aCy/FkBA;ADx/FZA,UACRA,C;EAGKC,MACGA;AACNA,SACFA,C;EAGKC,MACGA;AAENA,SACFA,C;EAIKC,2CC2hGgBA;CAAOA;;AD1hG0EA;GAOzDA;;AACZA,CAA/BA;GACuCA;;AACZA,CAA3BA;AAI8DA,iBAA9DA;AACyBA;gBACWA;AAEJA;AACDA;AAK7BA,WACgBA,QAAuCA,KC48FvCA;KD18FAA,iBC+/FCA,EAAOA;ADz/FEA;AAE1BA,YACEA;AAEAA,WAUEA,eAISA,SAAOA,KAAQA,SAGhCA,C;EAsBKC,MA7GuEA,sBAAbA,8BA8GhDA,OAEfA,C;EAGKC,MAnHuEA;OAAbA,6BAoH5CA,KAAYA,WApH6CA,IAAbA,8BAqH9CA,UAGjBA,C;EAGKC,QA3HuEA,4BAAbA;AAjBjCA,oBAE1BA;AAEFA,SA0IFA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "odAsEmDgBSAkINCI,A;eAlIMDAAmIAEiB,AAHjDFACk6KAAAA1rEsDII,A,A,gB;sXDttG1BCI;4HAoBmECsB;kMAyBzCDU;iBACzBC0B;oGAoD3BCoD;kBAMIA8D;gBACFAkC;uBAOFA0D;AAAAC0C;"
+  }
+}

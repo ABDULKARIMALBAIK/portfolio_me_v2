@@ -1,0 +1,153 @@
+{
+  "application_name": "PortfolioME",
+
+  "home_header_welcome": "Welcome to my portfolio",
+
+  "home_header_firstName": "ABDULKARIM",
+  "home_header_lastName": "ALBAIK",
+  "home_header_services1": "Flutter Developer",
+  "home_header_services2": "Flutter Package Publisher",
+  "home_header_services3": "Android Developer",
+  "home_header_services4": "Node.js Developer",
+  "home_header_div1": "<FlutterWeb>",
+  "home_header_div2": "</FlutterWeb>",
+  "home_header_div3": "This website is made by flutter.",
+  "home_header_div4": "< Made By Flutter />",
+
+
+
+  "home_about_title": "About Me",
+  "home_about_subtitle1": "BE - Informatics Engineer, 7 years of coding, have 6 certificates ,developed 11 Flutter project, 15 Android projects and the most important is i am excited to work with you.",
+  "home_about_subtitle2": "Interested in programming, I love individual thinking creating solutions And finding creative ways.",
+  "home_about_subtitle3": "I look forward to building more secure, robust and resilient software.",
+  "home_about_subtitle4": "With 1.5 years of solid experience in flutter framework, i can create complex designs with the latest technologies and architectures.",
+  "home_about_subtitle5": "Professional technologies in my apps: Bloc, Isar, Injectable, Firebase, Maps, Export Excels files, Payments, Deferred-Components, In-App purchases, Google mobile ads, Fluent Ui, Lottie, Charts, OneSignal, Unit Testing and more...",
+  "home_about_tech": "Technologies I have worked with :",
+  "home_about_language1": "Java",
+  "home_about_language2": "C#",
+  "home_about_language3": "Flutter",
+  "home_about_language4": "Dart",
+  "home_about_language5": "C++",
+  "home_about_language6": "Javascript",
+
+
+
+
+  "home_certificate_title": "Certificates",
+  "home_certificate_subtitle": "I have 6 certificates and BE-Informatics Engineering Certificate",
+
+
+
+
+
+  "home_services_title": "Services",
+  "home_services_subtitle": "If you need Apps , I am ready",
+  "home_services_item1_title": "Mobile App Development",
+  "home_services_item1_subtitle": "I can develop apps using Flutter/Android Frameworks where i am using the latest solutions and technologies, use custom and powerful animations to make design so perfect to client.",
+  "home_services_item2_title": "Backend Development",
+  "home_services_item2_subtitle": "I can develop backend side by Node.js and use many of tools : uploading files (Multer) , payment (Braintree) , send mails (Mailtrip) , check captcha (hCaptcha), security packages(JWT,helmet,cors,express-rate-limit.....) and testing apis by Postman",
+  "home_services_item3_title": "UI/UX Designing",
+  "home_services_item3_subtitle": "I can make a simple designs for Android Devices and i have made designs to my own apps (Herafi and Hajozat)",
+  "home_services_item4_title": "SQL Queries",
+  "home_services_item4_subtitle": "I have written many of queries to my apps like (Herafi , Hajozat and MovieTube) and i deal with DBMS like PhpMyAdmin (PMA)",
+
+
+
+
+  "home_skills_title": "Skills",
+  "home_skills_flutter_framework": "Flutter Framework: ",
+  "home_skills_flutter_framework1": "I have solid experience in flutter framework with 1 year full time job at companies and 6 months learning and training on flutter framework that made me able to develop complex designs (you can check the Clock design on my linkedIn or facebook).",
+  "home_skills_flutter_framework2": "Work on modern solutions and technologies to develop cross platforms apps.",
+  "home_skills_flutter_framework3": "I am proud because i have made 11 projects by flutter framework for multiple platforms include: android, ios, web and windows.",
+  "home_skills_flutter_framework4": "Worked remotely and on-site companies.",
+  "home_skills_flutter_framework5": "I have made 2 packages (super_circle,super_bottom_navigation) have published them on pub.dev.",
+  "home_skills_apps": "Apps:",
+  "home_skills_apps_flutter": "Android, Ios, Web, Windows.",
+  "home_skills_tech": "Technologies:",
+  "home_skills_structure": "Structure: ",
+  "home_skills_state_management": "State Management: ",
+  "home_skills_database": "Databases: ",
+  "home_skills_services": "Services: ",
+  "home_skills_firebase": "Firebase: ",
+  "home_skills_maps": "Maps: ",
+  "home_skills_payments": "Payments: ",
+  "home_skills_http_request": "HTTP Requests by Dio: ",
+  "home_skills_flutter_web": "Flutter Web: ",
+  "home_skills_plugins": "Plugins: ",
+  "home_skills_packages": "Packages: ",
+  "home_skills_publish": "Publish: ",
+  "home_skills_others": "Others: ",
+  "home_skills_solutions": "Solutions: ",
+  "home_skills_captcha": "Captcha: ",
+  "home_skills_editing_photos_tools": "Editing Photos Tools: ",
+  "home_skills_pro_libraries": "Pro Libraries: ",
+  "home_skills_arduino": "Arduino: ",
+  "home_skills_pro_facebook": "Facebook: ",
+  "home_skills_azure": "Azure: ",
+  "home_skills_pro_design_patterns": "Design Patterns: ",
+  "home_skills_request": "HTTP Requests: ",
+  "home_skills_security": "Security: ",
+
+  "home_skills_android_framework": "Android Framework: ",
+  "home_skills_android_framework1": "I have strong experience in android framework where i spent 2 years (2019,2020) developing modern and high quality android apps.",
+  "home_skills_android_framework2": "Yes i developed them when i was informatics engineer at my collage (University of Aleppo).",
+  "home_skills_android_framework3": "I used Java language to develop them, i mean i used all available technologies in android framework where i get 98/100 Grade to my graduation project (Herafi project)",
+  "home_skills_android_framework4": "I have created 15 projects in android framework include:",
+  "home_skills_android_framework5": "Store management (Client, Seller, Deliver (Eat it & Drink Shop projects)), Booking hotels, App connect with Arduino chip (fire extinguishing system (alarm_system project))",
+  "home_skills_android_framework6": "AI Android App (Smart App project), Editing Photos App (Photogram project), Android Game App (Noisy Birds project), Wallpaper App (My Wallpaper project).",
+
+  "home_skills_nodejs_framework": "NodeJS Framework: ",
+  "home_skills_nodejs_framework1": "I have good experience to create simple backend structure with many of features to manage http requests.",
+  "home_skills_nodejs_framework2": "I combined good structure, routing, security and handle exceptions to make great backend and reduce time and efforts.",
+  "home_skills_nodejs_framework3": "I Used MySQL Database to make all operations with it.",
+  "home_skills_nodejs_framework4": "I made great queries to get data via PMA (DBMS).",
+  "home_skills_nodejs_framework5": "I created 1 Backend by NodeJS Framework: Herafi Backend.",
+
+  "home_skills_design_title": "Design Ui/UX: ",
+  "home_skills_design_subtitle1": "I created 2 designs to my collage projects : Herafi & Hajozat.",
+  "home_skills_design_subtitle2": "I used Adobe XD to create my designs.",
+
+
+  "home_projects_title": "Projects",
+  "home_projects_flutter": "Flutter Projects :",
+  "home_projects_android": "Android Projects :",
+  "home_projects_button": "Check Github",
+
+
+
+
+  "home_contacts_title": "Contact",
+  "home_contacts_subtitle": "Let's get in touch and build something together ;)",
+  "home_contacts_title_location": "Location",
+  "home_contacts_description_location": "Aleppo, Syria",
+  "home_contacts_title_phone": "Phone",
+  "home_contacts_description_phone": "(+963) 958 299606",
+  "home_contacts_title_email": "Email",
+  "home_contacts_description_email": "abdalkarimalbe@gmail.com",
+  "home_contacts_rights": "⭐ © All Rights Reserved by ABDULKARIM ALBAIK 2023 ⭐",
+
+
+
+
+  "home_appBar_resume": "Resume",
+  "home_appBar_home": "Home",
+  "home_appBar_about": "About",
+  "home_appBar_certificates": "Certificates",
+  "home_appBar_services": "Services",
+  "home_appBar_skills": "Skills",
+  "home_appBar_projects": "Projects",
+
+  "home_appBar_switch": "Dark Mode",
+
+
+
+  "home_snackBar_thankYouResume": "Thank you to Review my resume , i hope you like it !",
+
+
+
+  "home_rights_title": "© All Rights Reserved by ABDULKARIM ALBAIK",
+
+
+  "page_not_found": "Page not found !",
+  "error_text": "something went wrong, we will fix it !"
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_1.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../lib/pages/portfolio/widgets/portfolio_about.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/media_query.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/ui/geometry.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/painting/box_decoration.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/painting/gradient.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/_engine/engine/renderer.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/ui/path.dart"],
+  "names": ["PortfolioAbout","PortfolioAbout.build","PortfolioAbout.leftTextsSide","AboutClipper.getClip","Path","AboutClipper.shouldReclip","of","leftTextsSide","","width","renderer","height"],
+  "mappings": "A;0DA0CQA;2BAA2BA,C;;;;;;;;;;;;;;;CAG1BC,IC+0BEA,sEAAwDA,KAAxDA,MAAwDA,KAAxDA,MAAwDA,KAAxDC,MAAwDA,KD1wB5BD,+BAGhBA,MAAYA,GAAUA;CAASA;AAJ9CA,UAGgCA,cAETA;AAWQA;AAD/BA,UAZgCA,SAgBjBA,MACRA,GACAA,GACAA,IAAgCA,UAjBhBA;AA6BQA;AAD/BA,UA9BgCA,SAkCjBA,MACRA,GACAA,GACAA,IAlBgCA,UAjBhBA;AA+CQA;AAD/BA,UAhDgCA,SAoDjBA,MACRA,GACAA,GACAA,IApCgCA,UAjBhBA;AAgEQA;;AA/HpBA,OAEEA,MAEoBA,GAKfA,KEm0DlBA,UFj0D2BA,IACRA,KA0ChBA,KAEEA,KAA+DA,QAY9DA,yBA0DNA,QAjEgCA,SAqEjBA,MACRA,GACAA,GACAA,IArDgCA,UAjBhBA,OAKjBA,SAZ6CA,KA9DdA,WA6DTA,EGbdC,OH7B8BD,EG6B9BA,gBHrCiCA,IAFvBA,KAGYA,YALAA,EGyCtBA;AF2xBXA,QAAwDA;AAAxDA,QAAwDA;AD90B/DA,OAAOA,KAEEA,KAGKA,KEg1DVA,UF70DmBA,UAyBXA,IAGNA,KEi5MFA,SF74MaA,KAEEA,iBIFfA,mBCuSAA,ULhSmCA,KACFA,KK+RjCA,IL9R0BA,KACJA,MAAYA,IACZA,MAAYA,gBIXlCA,oBJGwCA,EGQ1BA,YHoXhBA,oBAlYoCA,EGcpBA,YH/CyBA,IADFA,WAFTA,EGkDdA,GHSpBA,C;;EA6WKE,IM9ckBC,eCAWD,QJwFdA;AHyXlBA;AACAA;GGzXmBA;AH0XnBA;AACAA;AACAA;AAEAA;AACAA,QACFA,C;EAGKE,IACDA,eAAkBA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "iYA+CwBM2E;AASQAW;AAYQAW;AACXCAAyCLDW,+W;qBA7CNEU;SAIWD2G;WAAAAEAyCYEO,A;EA1CgBAgB;uBAZRAI;AA2BnBHW;AAMMAW;sBApC1BEU;mBAgCSAS;sBAMWAmB;AACEAU;UAAAAI;qCADFAoB;EAFuBCY;AAF5BDoB;EAJsBCY;iBApCNAG;0BAyazBDAO/cWEe,Q;APidNDS;6BAEYEG;"
+  }
+}

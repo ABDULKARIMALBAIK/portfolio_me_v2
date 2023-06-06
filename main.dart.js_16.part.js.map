@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_16.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/painting/basic_types.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/rendering/viewport.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/scroll_position.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/foundation/node.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/scroll_notification.dart"],
+  "names": ["textDirectionToAxisDirection","RenderViewportBase.showInViewport","ViewportElementMixin.onNotification","pixels","parent"],
+  "mappings": "A;;GA6NcA,uBAIRA,QAAqBA,GAI3BA;OAFMA,QAAqBA,GAE3BA,E;GCk9BeC,cAOVA;AAGDA,WACEA,QAqDJA;AAnD2CA;AACCA;GC5hCvBA;CAAOA;GDqjCJA;GAA4BA;AAAlDA,OAGgDA,gBACCA;KAE1CA;KAIAA,cEnnCmBA;CF0nC2CA;AAAzCA,SAA2CA;AACrEA,OAAmBA,eAA4CA,UAOnEA,KAFEA,QAA2BA;AAC3BA,QAAoBA,EACtBA,C;;;;;;EG9sCKC,IACcA;AAGjBA,QACFA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "sUCssCwCGkB;qFAyC2BCI;"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "version": 3,
+  "engine": "v2",
+  "file": "main.dart.js_10.part.js",
+  "sourceRoot": "",
+  "sources": ["../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/font_awesome_flutter-10.4.0/lib/src/fa_icon.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/basic.dart","../../../../../Documents/flutter_sdk/flutter/packages/flutter/lib/src/widgets/icon_theme_data.dart","../../../../../Documents/flutter_sdk/flutter/bin/cache/flutter_web_sdk/lib/ui/painting.dart","org-dartlang-sdk:///lib/_internal/js_runtime/lib/core_patch.dart","../../../../../AppData/Local/Pub/Cache/hosted/pub.dev/vector_math-2.1.4/lib/src/vector_math_64/matrix4.dart"],
+  "names": ["FaIcon","FaIcon.build","Color.withOpacity","Color.opacity","Color.withAlpha","Matrix4.identity","of","opacity","withOpacity","withAlpha","alpha","red","green","blue","fromCharCode","identity","zero",""],
+  "mappings": "A;0DAqBQA;0CAOcA,C;;;;;;;;;;;CA6EbC,IC0EyBA;CAA4DA;GAC5EA;ADtE4BA;GAEjBA;cAAkBA;GE+CtBA;AAA0BA;;GFrC7BA;eAAmBA;CAAKA;AAE5BA,IADdA,SGjEaC,OAKWD,aAXKE,0BAEFC,iBACEA,gBACDA;GH6EEH;AIgaZA,QJhakBA;AANhBA,aACKA,aAIjBA,OAEGA,sBAIaA,+BACHA;IAKXA,sBK+EZI;AAGsCJ;AL9ETA;AADRA,QAEUA;AAIvBA;OAEAA,MAINA,OAAOA,OCg5NHA,uCD/4NKA,mCAKXA,C",
+  "x_org_dartlang_dart2js": {
+    "minified_names": {
+      "global": "",
+      "instance": ""
+    },
+    "frames": "qVA4G6CM4D;qCAaJC4C;6CAGvBCAG7DPCO,a;AH6DuCFAGvE1BG0B,A;AHuENFAG7DPCAALkBEiB,AAAKCgB,AAAOCgB,A,A;GH2EpBCQ;iJAeUCAK8ESCiC,O;mELjE3BCuC;"
+  }
+}
