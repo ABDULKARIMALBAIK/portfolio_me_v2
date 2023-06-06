@@ -174,5 +174,3 @@ D.qL=new A.tq(1,"inAppWebView")
 D.OV=new A.tq(2,"externalApplication")
 D.a2j=new B.pv(2,"externalApplication")})()}
 $__dart_deferred_initializers__["ZHy/8NY3TNd42bR6E9O4rR3E7eM="] = $__dart_deferred_initializers__.current
-
-//# sourceMappingURL=main.dart.js_12.part.js.map
